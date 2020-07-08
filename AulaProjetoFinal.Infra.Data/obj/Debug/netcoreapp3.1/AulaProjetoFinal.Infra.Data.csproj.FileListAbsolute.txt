@@ -1,0 +1,15 @@
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.deps.json
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.runtimeconfig.json
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.runtimeconfig.dev.json
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.dll
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.pdb
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.dll
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.pdb
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.csprojAssemblyReference.cache
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.csproj.CoreCompileInputs.cache
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.AssemblyInfoInputs.cache
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.AssemblyInfo.cs
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.csproj.CopyComplete
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.dll
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.pdb
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.Data\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.Data.genruntimeconfig.cache

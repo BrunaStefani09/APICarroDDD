@@ -1,0 +1,9 @@
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Domain\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.deps.json
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Domain\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.dll
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Domain\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.pdb
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Domain\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.AssemblyInfoInputs.cache
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Domain\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.AssemblyInfo.cs
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Domain\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.dll
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Domain\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.pdb
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Domain\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.csprojAssemblyReference.cache
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Domain\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.csproj.CoreCompileInputs.cache

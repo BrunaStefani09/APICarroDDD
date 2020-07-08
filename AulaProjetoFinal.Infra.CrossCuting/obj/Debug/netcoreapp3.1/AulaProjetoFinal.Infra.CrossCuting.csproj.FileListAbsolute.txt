@@ -1,0 +1,9 @@
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.CrossCuting\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.CrossCuting.deps.json
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.CrossCuting\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.CrossCuting.dll
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.CrossCuting\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.CrossCuting.pdb
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.CrossCuting\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.CrossCuting.csproj.CoreCompileInputs.cache
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.CrossCuting\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.CrossCuting.AssemblyInfoInputs.cache
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.CrossCuting\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.CrossCuting.AssemblyInfo.cs
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.CrossCuting\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.CrossCuting.dll
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.CrossCuting\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.CrossCuting.pdb
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Infra.CrossCuting\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Infra.CrossCuting.csprojAssemblyReference.cache

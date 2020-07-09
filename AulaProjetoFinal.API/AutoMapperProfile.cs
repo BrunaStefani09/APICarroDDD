@@ -12,7 +12,7 @@ namespace AulaProjetoFinal.API
     {
         public AutoMapperProfile()
         {
-            CreateMap<Carro, CarroDTO>().ReverseMap(); //
+            CreateMap<Carro, CarroDTO>().ReverseMap();
             CreateMap<Marca, MarcaDTO>().ReverseMap();
             CreateMap<Modelo, ModeloDTO>().ReverseMap();
             CreateMap<Veiculo, VeiculoDTO>().ReverseMap();

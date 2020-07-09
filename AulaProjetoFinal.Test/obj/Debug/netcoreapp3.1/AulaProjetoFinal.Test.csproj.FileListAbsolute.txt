@@ -87,10 +87,13 @@ D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\bin\Debug\netcoreapp3
 D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Test.csprojAssemblyReference.cache
-D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Test.csproj.CoreCompileInputs.cache
 D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Test.AssemblyInfoInputs.cache
 D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Test.AssemblyInfo.cs
 D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Test.csproj.CopyComplete
 D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Test.dll
 D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Test.pdb
 D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\obj\Debug\netcoreapp3.1\AulaProjetoFinal.Test.genruntimeconfig.cache
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.dll
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.Test\bin\Debug\netcoreapp3.1\AulaProjetoFinal.Domain.pdb

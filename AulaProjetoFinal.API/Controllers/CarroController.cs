@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AulaProjetoFinal.API.DTOs;
 using AulaProjetoFinal.Domain.Entities;
 using AulaProjetoFinal.Domain.Interfaces;
+using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,10 +16,13 @@ namespace AulaProjetoFinal.API.Controllers
     public class CarroController : ControllerBase
     {
         private readonly ICarroService _carroService;
+        private readonly IMapper _mapper;
 
-        public CarroController(ICarroService carroService)
+
+        public CarroController(ICarroService carroService, IMapper mapper)
         {
             _carroService = carroService;
+            _mapper = mapper;
         }
 
         // GET: api/Carro
@@ -25,13 +30,14 @@ namespace AulaProjetoFinal.API.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public ActionResult<IEnumerable<Carro>> Get()
+        public ActionResult<IEnumerable<CarroDTO>> Get()
         {
-            var marcas = _carroService.Carros().ToList();
-
-            if (marcas.Any())
+            var carro = _carroService.Carros().ToList();
+            var retorno = new List<CarroDTO>();
+            if (carro.Any())
             {
-                return Ok(marcas);
+                retorno = _mapper.Map<List<CarroDTO>>(carro);
+                return Ok(retorno);
             }
             else
             {
@@ -44,13 +50,14 @@ namespace AulaProjetoFinal.API.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public ActionResult<Carro> Get(int id)
+        public ActionResult<CarroDTO> Get(int id)
         {
             var carro = _carroService.CarroById(id);
-
+            var retorno = new CarroDTO();
             if (carro != null)
             {
-                return Ok(carro);
+                retorno = _mapper.Map<CarroDTO>(carro);
+                return Ok(retorno);
             }
             else
             {
@@ -63,13 +70,15 @@ namespace AulaProjetoFinal.API.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public ActionResult<Carro> Post([FromBody] Carro carro)
+        public ActionResult<CarroDTO> Post([FromBody] CarroDTO carro)
         {
-            var _carro = _carroService.Salvar(carro);
-
+            var value = _mapper.Map<Carro>(carro);
+            var _carro = _carroService.Salvar(value);
+            var retorno = new CarroDTO();
             if (_carro != null)
             {
-                return Ok(_carro);
+                retorno = _mapper.Map<CarroDTO>(_carro);
+                return Ok(retorno);
             }
             else
             {
@@ -82,13 +91,15 @@ namespace AulaProjetoFinal.API.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public ActionResult<Carro> Put([FromBody] Carro carro)
+        public ActionResult<CarroDTO> Put([FromBody] CarroDTO carro)
         {
-            var _carro = _carroService.Atualizar(carro);
-
+            var value = _mapper.Map<Carro>(carro);
+            var _carro = _carroService.Atualizar(value);
+            var retorno = new CarroDTO();
             if (_carro != null)
             {
-                return Ok(_carro);
+                retorno = _mapper.Map<CarroDTO>(_carro);
+                return Ok(retorno);
             }
             else
             {

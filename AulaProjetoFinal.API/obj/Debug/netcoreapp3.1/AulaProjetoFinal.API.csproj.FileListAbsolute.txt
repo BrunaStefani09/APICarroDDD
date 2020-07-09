@@ -141,6 +141,4 @@ D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.API\bin\Debug\netcoreapp3.
 D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.API\obj\Debug\netcoreapp3.1\AulaProjetoFinal.API.csproj.CoreCompileInputs.cache
-D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.API\obj\Debug\netcoreapp3.1\AulaProjetoFinal.API.MvcApplicationPartsAssemblyInfo.cs
-D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.API\obj\Debug\netcoreapp3.1\AulaProjetoFinal.API.MvcApplicationPartsAssemblyInfo.cache
+D:\BRUNA\CODENATION\AulaProjetoFinal\AulaProjetoFinal.API\bin\Debug\netcoreapp3.1\AutoMapper.dll

@@ -7,6 +7,7 @@ using AulaProjetoFinal.Domain.Interfaces;
 using AulaProjetoFinal.Domain.Services;
 using AulaProjetoFinal.Infra.Data.Context;
 using AulaProjetoFinal.Infra.Data.Repository;
+using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
@@ -35,6 +36,7 @@ namespace AulaProjetoFinal.API
         {
             services.AddControllers();
             services.AddDbContext<DataContext>();
+            services.AddAutoMapper(typeof(Startup));
 
             services.AddScoped<IMarcaService, MarcaService>();
             services.AddScoped<IMarcaRepository, MarcaRepository>();
